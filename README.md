@@ -30,5 +30,4 @@ O projeto se refere a uma aplicação que consulta um endereço a partir de um C
 }
 ```
 <br>
-<br>
 ✨ Feito com carinho por <a href="http://https://www.linkedin.com/in/kayla-deodato/"> Kayla</a> 💜
