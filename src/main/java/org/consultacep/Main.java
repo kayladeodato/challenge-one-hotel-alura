@@ -1,4 +1,4 @@
-package org.example;
+package org.consultacep;
 
 import java.io.IOException;
 
